@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqlite加解密_Net5", "Sqlite加解密_Net5\Sqlite加解密_Net5.csproj", "{EF2D4716-6F9E-49F1-A669-E715986B012C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2D4716-6F9E-49F1-A669-E715986B012C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2D4716-6F9E-49F1-A669-E715986B012C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2D4716-6F9E-49F1-A669-E715986B012C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2D4716-6F9E-49F1-A669-E715986B012C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468CFC5E-0091-449E-8208-A5B53A022D24}
+	EndGlobalSection
+EndGlobal

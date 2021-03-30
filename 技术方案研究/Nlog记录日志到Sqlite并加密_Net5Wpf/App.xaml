@@ -1,0 +1,9 @@
+﻿<Application x:Class="Nlog记录日志到Sqlite并加密_Net5Wpf.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Nlog记录日志到Sqlite并加密_Net5Wpf"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

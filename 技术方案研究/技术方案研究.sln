@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31025.218
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqlite加解密_Net5", "Sqlite加解密_Net5\Sqlite加解密_Net5.csproj", "{EF2D4716-6F9E-49F1-A669-E715986B012C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nlog记录日志到Sqlite并加密_Net5Wpf", "Nlog记录日志到Sqlite并加密_Net5Wpf\Nlog记录日志到Sqlite并加密_Net5Wpf.csproj", "{E6517DB2-9792-4F18-A145-468C5FE47553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nlog记录日志到Sqlite并加密_Net5Wpf", "Nlog记录日志到Sqlite并加密_Net5Wpf\Nlog记录日志到Sqlite并加密_Net5Wpf.csproj", "{E6517DB2-9792-4F18-A145-468C5FE47553}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wpf调用摄像头", "Wpf调用摄像头\Wpf调用摄像头.csproj", "{66C4435A-1612-45D8-8877-18DA76B633BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E6517DB2-9792-4F18-A145-468C5FE47553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6517DB2-9792-4F18-A145-468C5FE47553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6517DB2-9792-4F18-A145-468C5FE47553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C4435A-1612-45D8-8877-18DA76B633BD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{66C4435A-1612-45D8-8877-18DA76B633BD}.Debug|Any CPU.Build.0 = Debug|x86
+		{66C4435A-1612-45D8-8877-18DA76B633BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C4435A-1612-45D8-8877-18DA76B633BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
